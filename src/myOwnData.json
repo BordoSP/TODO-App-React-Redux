@@ -1,0 +1,27 @@
+{
+    "items": [
+        {
+            "id": 0,
+            "checked": false,
+            "priority": "5",
+            "textTask": "Load"
+        },
+
+        {
+            "id": 1,
+            "checked": false,
+            "priority": "1",
+            "textTask": "FROM JSON"
+        },
+
+        {
+            "id": 2,
+            "checked": true,
+            "priority": "9",
+            "textTask": "is working"
+        }
+        
+    ],
+    "filter": "All",
+    "loading": false
+}
